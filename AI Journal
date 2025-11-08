@@ -29,3 +29,8 @@ what was provided to help me answer the questions.
 #Week 7:
 This week I experimented with Chatgpt and GitHub Copilot to help generate test cases and debug Python code for my project. This really helped 
 me catch a potential bug where data outside the valid calendar range were being accepted. Copilot worked well for in line quick syntax fixes.
+
+#Week 8:
+I was having trouble with question 11 and 19 on the hw. There seemed to be a bug in my code and I wasn't able to figure out what was wrong with it. 
+so I used chatgpt to help breakdown each line of code to help me find it. 
+
